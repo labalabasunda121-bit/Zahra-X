@@ -1,0 +1,4 @@
+-keep class kotlin.** { *; }
+-keep class dagger.hilt.** { *; }
+-keep class javax.inject.** { *; }
+-keep class com.zahra.space.data.entity.** { *; }
